@@ -11,4 +11,7 @@ mergeData.sas uses mainly SQL language to merge and wrangle the data
 analysis.py conducts the regression analysis and constructs the wordcloud plot
 
 # Output
+This folder shows the various outputs from the programs.
+
+# Summary
 Summary.pdf summarizes the reults
