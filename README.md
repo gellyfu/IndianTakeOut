@@ -1,6 +1,6 @@
 # Raw Data
 Indian take-out data is obtained from Kaggle \
-https://www.kaggle.com/henslersoftware/19560-indian-takeaway-orders?select=restaurant-1-products-price.csv
+https://www.kaggle.com/henslersoftware/19560-indian-takeaway-orders
 
 Monthly weather data in London is obtained from the  Meteorological Office \
 https://www.metoffice.gov.uk/
